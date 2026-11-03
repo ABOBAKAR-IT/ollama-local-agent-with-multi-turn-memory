@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^5.3.0",
+    "ollama": "^0.6.4"
+  },
+  "type": "module"
+}
